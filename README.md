@@ -9,3 +9,6 @@ Ultrasonic_Avoidance
 
 Back Wheels und Front Wheels unter
 SunFounder_PiCar\picar
+
+Videovorstellung des Projekts:
+https://www.youtube.com/watch?v=1O6LlKpCBpM
